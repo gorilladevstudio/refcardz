@@ -1,2 +1,2 @@
 # refcardz
-markdown reference sheets
+A collection of markdown reference sheets
